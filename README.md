@@ -1,8 +1,9 @@
+<table width="100%"><tr>
+<td><img src="resources/logos/citn-logo.png" alt="Church IT Network" width="250"></td>
+<td align="right"><img src="resources/images/qr-code.png" alt="QR Code" width="150"></td>
+</tr></table>
+
 <div align="center">
-
-<img src="resources/logos/citn-logo.png" alt="Church IT Network" width="350">
-
-<br><br>
 
 # AI Context Engineering Workshop
 
@@ -10,11 +11,7 @@
 
 **A two-day hands-on workshop for church tech leaders who are ready to stop experimenting with AI and start building tools that actually work.**
 
-<br>
-
-<img src="resources/images/qr-code.png" alt="QR Code" width="150">
-
-[Register ($40)](https://churchitnetwork.com/regionals/peoria-il-2026)
+[Event Details ($40)](https://churchitnetwork.com/regionals/peoria-il-2026)
 
 </div>
 
