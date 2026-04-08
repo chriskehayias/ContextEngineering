@@ -45,6 +45,7 @@ Each module folder contains its own README with objectives, exercises, and mater
 ## Resources
 
 - [Claude Code Cheat Sheet](https://cc.storyfox.cz) — comprehensive reference for keyboard shortcuts, slash commands, workflows, tips, skills, agents, CLI flags, and more ([screenshot](resources/claude-code-cheat-sheet.png))
+- [Brandfetch](https://brandfetch.com) — find official logos, icons, colors, and fonts for any company or product
 
 ## License
 
