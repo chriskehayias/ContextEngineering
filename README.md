@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="resources/qr-code.png" alt="QR Code" width="150">
+</div>
+
 # Context Engineering Workshop
 
 A two-day hands-on workshop on context engineering for LLMs.
