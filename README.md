@@ -11,7 +11,7 @@
 
 **A two-day hands-on workshop for church tech leaders who are ready to stop experimenting with AI and start building tools that actually work.**
 
-[Event Details ($40)](https://churchitnetwork.com/regionals/peoria-il-2026)
+[Event Details](https://churchitnetwork.com/regionals/peoria-il-2026)
 
 </div>
 
