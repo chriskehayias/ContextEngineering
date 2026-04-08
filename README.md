@@ -43,8 +43,7 @@ cd ContextEngineering
 
 ## Resources
 
-- [Claude Code Cheat Sheet](https://cc.storyfox.cz) — comprehensive reference for keyboard shortcuts, slash commands, workflows, tips, skills, agents, CLI flags, and more ([screenshot](resources/images/claude-code-cheat-sheet.png))
-- [Brandfetch](https://brandfetch.com) — find official logos, icons, colors, and fonts for any company or product
+A collection of cheat sheets, tools, and reference materials is available in the [Resources](resources/README.md) folder to support you before, during, and after the workshop.
 
 ## License
 
