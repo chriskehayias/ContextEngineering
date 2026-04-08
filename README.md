@@ -1,9 +1,6 @@
-<table width="100%"><tr>
-<td><img src="resources/logos/citn-logo.png" alt="Church IT Network" width="250"></td>
-<td align="right"><img src="resources/images/qr-code.png" alt="QR Code" width="150"></td>
-</tr></table>
-
 <div align="center">
+
+<img src="resources/logos/citn-logo.png" alt="Church IT Network" width="350">
 
 # AI Context Engineering Workshop
 
@@ -48,3 +45,9 @@ A collection of cheat sheets, tools, and reference materials is available in the
 ## License
 
 TBD
+
+---
+
+<div align="center">
+<img src="resources/images/qr-code.png" alt="QR Code" width="150">
+</div>
