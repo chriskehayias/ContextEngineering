@@ -1,33 +1,29 @@
 # Resources
 
-## Claude Code Cheat Sheet
+## [Claude Code](ClaudeCode.md)
 
-A comprehensive reference covering keyboard shortcuts, slash commands, workflows, tips, skills, agents, CLI flags, MCP servers, memory & files, config & env, and more.
-
-**Link:** [https://cc.storyfox.cz](https://cc.storyfox.cz)
-
-![Claude Code Cheat Sheet](images/claude-code-cheat-sheet.png)
+Cheat sheets, tips, and references for working with Claude Code.
 
 ---
 
-## Brandfetch
+## [Cloud Providers & Services](CloudProviders.md)
 
-Need a logo for a company, product, or tool? Brandfetch is a free logo and brand asset search engine. Just type in a company or product name and it returns official logos, icons, colors, and fonts — in SVG, PNG, and more. Super handy when building READMEs, slide decks, or anything that needs a clean logo fast.
-
-**Link:** [https://brandfetch.com](https://brandfetch.com)
+A curated list of cloud-based tools and services that accelerate Context Engineering builds — deployment, databases, auth, messaging, storage, and more.
 
 ---
 
-## 21st.dev
+## [Components](Components.md)
 
-A community-driven component marketplace where you can explore, copy, and remix thousands of high-quality React components. Browse categories like heroes, buttons, pricing sections, AI chat components, testimonials, and more — all published by designers and developers. Great for quickly dropping polished UI into your projects.
-
-**Link:** [https://21st.dev](https://21st.dev)
+Component marketplaces and UI libraries for quickly building polished interfaces.
 
 ---
 
-## VSCode Suggested Extensions
+## [VSCode Suggested Extensions](VSCode.md)
 
 A curated list of VS Code extensions to boost your development workflow — including icon themes, code formatting, Git tools, and more.
 
-**Link:** [VSCode.md](VSCode.md)
+---
+
+## [Other Web Resources](OtherWebResources.md)
+
+Useful web tools for logos, assets, and other development needs.
