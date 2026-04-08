@@ -1,6 +1,6 @@
 # Components
 
-## 21st.dev
+## <img src="logos/21stdev.png" width="24" alt="21st.dev"> 21st.dev
 
 A community-driven component marketplace where you can explore, copy, and remix thousands of high-quality React components. Browse categories like heroes, buttons, pricing sections, AI chat components, testimonials, and more — all published by designers and developers. Great for quickly dropping polished UI into your projects.
 
