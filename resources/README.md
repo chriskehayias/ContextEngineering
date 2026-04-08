@@ -1,6 +1,6 @@
 # Resources
 
-## [Claude Code](ClaudeCode.md)
+## [Claude Code](Claude/ClaudeCode.md)
 
 Cheat sheets, tips, and references for working with Claude Code.
 

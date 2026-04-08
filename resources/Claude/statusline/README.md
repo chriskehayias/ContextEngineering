@@ -1,4 +1,4 @@
-# <img src="../logos/claude.svg" width="24" alt="Claude"> Custom Status Line for Claude Code
+# <img src="../../logos/claude.svg" width="24" alt="Claude"> Custom Status Line for Claude Code
 
 A custom status line that replaces Claude Code's default with a rich, color-coded display showing model info, context usage, cost tracking, project name, and git branch — all at a glance.
 
