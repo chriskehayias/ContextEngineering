@@ -1,23 +1,23 @@
 # Workshop Prerequisites
 
 <p align="center">
-  <a href="#1-github-account"><img src="logos/github.svg" alt="GitHub" width="48" height="48"></a>
+  <a href="#1-github-account"><img src="../resources/logos/github.svg" alt="GitHub" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#2-git"><img src="logos/git.svg" alt="Git" width="48" height="48"></a>
+  <a href="#2-git"><img src="../resources/logos/git.svg" alt="Git" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#3-nodejs"><img src="logos/nodejs.svg" alt="Node.js" width="48" height="48"></a>
+  <a href="#3-nodejs"><img src="../resources/logos/nodejs.svg" alt="Node.js" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#4-visual-studio-code-vs-code"><img src="logos/vscode.png" alt="VS Code" width="48" height="48"></a>
+  <a href="#4-visual-studio-code-vs-code"><img src="../resources/logos/vscode.png" alt="VS Code" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#5-anthropic-account-claude"><img src="logos/anthropic.svg" alt="Anthropic" width="48" height="48"></a>
+  <a href="#5-anthropic-account-claude"><img src="../resources/logos/anthropic.svg" alt="Anthropic" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#6-claude-code-cli"><img src="logos/claude.svg" alt="Claude" width="48" height="48"></a>
+  <a href="#6-claude-code-cli"><img src="../resources/logos/claude.svg" alt="Claude" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#vercel"><img src="logos/vercel.svg" alt="Vercel" width="48" height="48"></a>
+  <a href="#vercel"><img src="../resources/logos/vercel.svg" alt="Vercel" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#neon"><img src="logos/neon.svg" alt="Neon" width="48" height="48"></a>
+  <a href="#neon"><img src="../resources/logos/neon.svg" alt="Neon" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#context7"><img src="logos/context7.png" alt="Context7" width="48" height="48"></a>
+  <a href="#context7"><img src="../resources/logos/context7.png" alt="Context7" width="48" height="48"></a>
 </p>
 
 Everything you need to install and set up **before** the workshop. Follow each section in order. Budget about 30-60 minutes for the full setup.

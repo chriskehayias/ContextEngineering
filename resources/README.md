@@ -6,7 +6,7 @@ A comprehensive reference covering keyboard shortcuts, slash commands, workflows
 
 **Link:** [https://cc.storyfox.cz](https://cc.storyfox.cz)
 
-![Claude Code Cheat Sheet](claude-code-cheat-sheet.png)
+![Claude Code Cheat Sheet](images/claude-code-cheat-sheet.png)
 
 ---
 
