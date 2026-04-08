@@ -6,6 +6,8 @@
 
 A two-day hands-on workshop on context engineering for LLMs.
 
+> **First time here?** Start with the [Prerequisites & Setup Guide](_requirements/README.md) to get your machine ready before the workshop.
+
 ## Repository Structure
 
 ```
@@ -27,6 +29,7 @@ examples/
   mcp-configs/           # Example MCP server configurations
   system-prompts/        # Example system prompts
 
+_requirements/           # Prerequisites and setup guide
 resources/               # Reference materials, links, further reading
 ```
 
