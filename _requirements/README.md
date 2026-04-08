@@ -293,7 +293,7 @@ Context7 works without an API key, but you'll hit rate limits quickly — especi
 Once set up, Context7 activates automatically when you ask about libraries. You can also call it explicitly:
 
 ```
-use context7 to show me how to set up middleware in Next.js 15
+use context7 to show me how to set up proxy in Next.js 16
 ```
 
 ---
