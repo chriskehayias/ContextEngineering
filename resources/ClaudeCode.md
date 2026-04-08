@@ -9,3 +9,11 @@ A comprehensive reference covering keyboard shortcuts, slash commands, workflows
 ![Claude Code Cheat Sheet](images/claude-code-cheat-sheet.png)
 
 ---
+
+## Custom Status Line
+
+A color-coded status line for Claude Code that displays model name, context window usage with a visual progress bar, token counts, session cost, project name, and git branch — all in one line. Includes the script and installation instructions.
+
+**Link:** [statusline/README.md](statusline/README.md)
+
+---
