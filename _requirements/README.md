@@ -4,7 +4,21 @@ Everything you need to install and set up **before** the workshop. Follow each s
 
 ---
 
-## 1. Git
+## 1. GitHub Account
+
+GitHub is where this workshop repo lives and where you'll push your work. Create this first — you'll use the same email when configuring Git in the next step.
+
+**Sign up:** [https://github.com/signup](https://github.com/signup)
+
+### Setup steps
+
+1. Go to the signup page and create a free account
+2. Verify your email address
+3. That's it — free accounts have everything you need
+
+---
+
+## 2. Git
 
 Git is the version control tool we use to download and share code. You'll use it throughout the workshop.
 
@@ -19,27 +33,13 @@ Git is the version control tool we use to download and share code. You'll use it
    git --version
    ```
    You should see something like `git version 2.44.0`
-4. Configure your name and email (this tags your work, it doesn't create an account):
+4. Configure your name and email — **use the same email you signed up with on GitHub**:
    ```bash
    git config --global user.name "Your Name"
    git config --global user.email "you@example.com"
    ```
 
-**Account required?** No account needed for Git itself. You will need a **GitHub** account (see below).
-
----
-
-## 2. GitHub Account
-
-GitHub is where this workshop repo lives and where you'll push your work.
-
-**Sign up:** [https://github.com/signup](https://github.com/signup)
-
-### Setup steps
-
-1. Go to the signup page and create a free account
-2. Verify your email address
-3. That's it — free accounts have everything you need
+**Account required?** No account needed for Git itself — it uses your GitHub account from Step 1.
 
 ---
 
@@ -164,7 +164,7 @@ The GitHub CLI lets you create repos, pull requests, and more from your terminal
    gh auth status
    ```
 
-**Account required?** Yes — uses your GitHub account from Step 2.
+**Account required?** Yes — uses your GitHub account from Step 1.
 
 ---
 
