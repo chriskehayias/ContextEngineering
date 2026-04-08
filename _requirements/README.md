@@ -1,5 +1,25 @@
 # Workshop Prerequisites
 
+<p align="center">
+  <a href="#1-github-account"><img src="logos/github.svg" alt="GitHub" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#2-git"><img src="logos/git.svg" alt="Git" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#3-nodejs"><img src="logos/nodejs.svg" alt="Node.js" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#4-visual-studio-code-vs-code"><img src="logos/vscode.svg" alt="VS Code" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#5-anthropic-account-claude"><img src="logos/anthropic.svg" alt="Anthropic" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#6-claude-code-cli"><img src="logos/claude.svg" alt="Claude" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#vercel"><img src="logos/vercel.svg" alt="Vercel" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#neon"><img src="logos/neon.svg" alt="Neon" width="48" height="48"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#context7"><img src="logos/context7.png" alt="Context7" width="48" height="48"></a>
+</p>
+
 Everything you need to install and set up **before** the workshop. Follow each section in order. Budget about 30-60 minutes for the full setup.
 
 ---
@@ -91,12 +111,25 @@ VS Code is the code editor we'll use in the workshop. It's free, lightweight, an
 
 Anthropic makes Claude, the AI we'll be working with. You need an account to use the Claude API and Claude Code.
 
-**Sign up:** [https://console.anthropic.com](https://console.anthropic.com)
+**Sign up:** [https://claude.ai](https://claude.ai)
 
-### Setup steps
+### Recommended: Claude Max subscription
 
-1. Go to the Anthropic Console and create an account
-2. You will need to add a payment method — API usage is pay-as-you-go
+For this workshop, we **strongly recommend** signing up for the **Claude Max** plan. Claude Code uses a lot of tokens and with the API pay-as-you-go model, costs can add up quickly during a hands-on workshop. Claude Max gives you a flat monthly rate with generous usage limits — much better for learning and experimenting freely.
+
+- Go to [claude.ai](https://claude.ai) and create an account (or sign in)
+- Subscribe to **Claude Max** ($100/month)
+- You only need it for **one month** — you can downgrade or cancel anytime after the workshop
+- Claude Code will authenticate through your Claude Max subscription, no API key needed
+
+> **Why Max?** During two full days of hands-on exercises, you'll be making hundreds of Claude Code requests. On pay-as-you-go API pricing, that could easily exceed $100. Max gives you predictable cost and peace of mind to experiment without watching your bill.
+
+### Alternative: API pay-as-you-go
+
+If you prefer not to subscribe, you can use the API directly — you only pay for what you use.
+
+1. Go to the [Anthropic Console](https://console.anthropic.com) and create an account
+2. Add a payment method — API usage is pay-as-you-go
 3. Navigate to **API Keys** and create a new key
 4. Copy your API key and save it somewhere safe (you won't be able to see it again)
 5. Set it as an environment variable in your terminal:
@@ -111,7 +144,7 @@ Anthropic makes Claude, the AI we'll be working with. You need an account to use
 
 > **Tip:** To make this permanent, add the export line to your shell profile (`~/.bashrc`, `~/.zshrc`, or Windows environment variables).
 
-**Account required?** Yes — free to create, but API usage requires a payment method.
+**Account required?** Yes — either a Claude Max subscription (recommended) or an API key with a payment method.
 
 ---
 
@@ -211,6 +244,57 @@ A serverless Postgres database. Useful if you want to build something with a rea
 1. Sign up with your **GitHub account** (easiest) or email
 2. Create a free project — you'll get a connection string
 3. Free tier includes 1 project with 512 MB storage — plenty for the workshop
+
+### Context7
+
+Context7 is an MCP server that pulls **up-to-date, version-specific documentation** directly into your Claude Code prompts. Instead of Claude relying on its training data (which may be months old), Context7 fetches the current docs for any library — React, Next.js, Prisma, Tailwind, you name it. This is a game-changer for getting accurate, working code.
+
+**Dashboard:** [https://context7.com/dashboard](https://context7.com/dashboard)
+
+#### The easy way: let Claude Code set it up for you
+
+The fastest way to add Context7 is to just ask Claude Code to do it:
+
+1. Open your terminal and launch Claude Code:
+   ```bash
+   claude
+   ```
+2. Then simply type:
+   ```
+   Add Context7 as an MCP server
+   ```
+3. Claude Code will handle the configuration for you
+
+#### Manual setup (if you prefer)
+
+Run this one command in your terminal — it handles authentication and installs Context7 automatically:
+
+```bash
+npx ctx7 setup --claude
+```
+
+If you're on a remote/headless server (no browser), use your API key directly:
+
+```bash
+npx ctx7 setup --claude --api-key YOUR_API_KEY
+```
+
+#### Get an API key for extended usage
+
+Context7 works without an API key, but you'll hit rate limits quickly — especially during a full day of workshop exercises. A free API key removes that bottleneck:
+
+1. Go to [context7.com/dashboard](https://context7.com/dashboard)
+2. Sign up / log in
+3. Create a new API key
+4. Your key will unlock higher rate limits for sustained usage throughout the workshop
+
+#### Using Context7 in Claude Code
+
+Once set up, Context7 activates automatically when you ask about libraries. You can also call it explicitly:
+
+```
+use context7 to show me how to set up middleware in Next.js 15
+```
 
 ---
 
