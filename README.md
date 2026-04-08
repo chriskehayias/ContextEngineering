@@ -1,12 +1,41 @@
-<div align="right">
-  <img src="resources/images/qr-code.png" alt="QR Code" width="150">
+<div align="center">
+
+<img src="resources/logos/citn-logo.png" alt="Church IT Network" width="350">
+
+<br><br>
+
+# AI Context Engineering Workshop
+
+### Peoria, IL — May 7-8, 2026
+
+**A two-day hands-on workshop for church tech leaders who are ready to stop experimenting with AI and start building tools that actually work.**
+
+<br>
+
+<img src="resources/images/qr-code.png" alt="QR Code" width="150">
+
+[Register ($40)](https://churchitnetwork.com/regionals/peoria-il-2026)
+
 </div>
 
-# Context Engineering Workshop
+---
 
-A two-day hands-on workshop on context engineering for LLMs.
+## About This Event
+
+This workshop focuses on **context engineering** — the discipline of designing the context that goes into every LLM interaction. Day 1 covers the foundations. Day 2 is a full build day where you apply what you've learned to real ministry challenges.
+
+**Venue:** Northwoods Community Church — 10700 N. Allen Road, Peoria, IL 61615
+
+| | Schedule |
+|---|---|
+| **May 6 (evening)** | Pre-Event Dinner Meet & Greet |
+| **May 7, 9am-5pm** | Day 1 — Foundations (lunch included) |
+| **May 7 (evening)** | Optional Dinner |
+| **May 8, 9am-5pm** | Day 2 — Build Day (lunch included) |
 
 > **First time here?** Start with the [Prerequisites & Setup Guide](_requirements/README.md) to get your machine ready before the workshop.
+
+---
 
 ## Repository Structure
 
