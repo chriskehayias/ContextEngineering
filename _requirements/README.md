@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="#3-nodejs"><img src="logos/nodejs.svg" alt="Node.js" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#4-visual-studio-code-vs-code"><img src="logos/vscode.svg" alt="VS Code" width="48" height="48"></a>
+  <a href="#4-visual-studio-code-vs-code"><img src="logos/vscode.png" alt="VS Code" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="#5-anthropic-account-claude"><img src="logos/anthropic.svg" alt="Anthropic" width="48" height="48"></a>
   &nbsp;&nbsp;&nbsp;
