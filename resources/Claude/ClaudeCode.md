@@ -17,3 +17,11 @@ A color-coded status line for Claude Code that displays model name, context wind
 **Link:** [statusline/README.md](statusline/README.md)
 
 ---
+
+## Custom Slash Commands
+
+A curated set of 8 beginner-friendly custom slash commands for Claude Code that demonstrate core context engineering principles. Includes commands for project overview, code explanation, code review, test generation, error analysis, prompt improvement, and more.
+
+**Link:** [commands/README.md](commands/README.md)
+
+---
