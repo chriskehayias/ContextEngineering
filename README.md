@@ -22,12 +22,30 @@ This workshop focuses on **context engineering** — the discipline of designing
 
 | | Schedule |
 |---|---|
-| **May 6 (evening)** | Pre-Event Dinner Meet & Greet |
-| **May 7, 9am-5pm** | Day 1 — Foundations (lunch included) |
-| **May 7 (evening)** | Optional Dinner |
-| **May 8, 9am-5pm** | Day 2 — Build Day (lunch included) |
+| **May 6 (evening)** | Meet & Greet |
+| **May 7, 9am–5pm** | Day 1 — Workshop (lunch & snacks provided) |
+| **May 7, 6:30pm** | Dinner (included thanks to the generosity of our partners) |
+| **May 8, 9am–5pm** | Day 2 — Workshop (lunch & snacks provided) |
+| **May 8, 6:30pm** | Dinner (included thanks to the generosity of our partners) |
 
-> **First time here?** Start with the [Prerequisites & Setup Guide](_requirements/README.md) to get your machine ready before the workshop.
+<p align="center"><strong>Made possible by our partners</strong></p>
+<p align="center">
+  <img src="resources/logos/citn-logo.png" alt="Church IT Network" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/logos/aws.png" alt="Amazon Web Services" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/logos/simple.png" alt="Simple" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/logos/lynde-consulting.png" alt="Lynde Consulting" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/logos/it1source.png" alt="IT1 Source" height="48">
+</p>
+
+### ⚠️ Before You Arrive
+
+> **You must complete the [Prerequisites & Setup Guide](_requirements/README.md) before the workshop.**
+>
+> The setup takes 30–60 minutes and requires downloading several tools. **Do not wait until the morning of the event** — there won't be time to troubleshoot install issues on Day 1. If you run into problems, reach out ahead of time so we can help.
 
 ---
 
