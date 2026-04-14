@@ -30,6 +30,12 @@ GitHub is where this workshop repo lives and where you'll push your work. Create
 
 **Sign up:** [https://github.com/signup](https://github.com/signup)
 
+> **Important: This is YOUR personal account.**
+>
+> Your GitHub account is tied to you as an individual — not your employer or organization. It follows you from job to job and is how you get invited to collaborate on projects outside your current workplace. If your organization has a GitHub Organization account, you would be invited to join it using your personal GitHub account.
+>
+> **Do not create a GitHub account on behalf of your organization here.** Create a personal account using your own email address.
+
 ### Setup steps
 
 1. Go to the signup page and create a free account
@@ -65,7 +71,7 @@ Git is the version control tool we use to download and share code. You'll use it
 
 ## 3. Node.js
 
-Node.js is the JavaScript runtime that Claude Code and many modern dev tools run on. You need version **18 or higher**.
+Node.js is a JavaScript runtime used by many modern dev tools, MCP servers, and deployment CLIs we'll use during the workshop. You need version **18 or higher**.
 
 **Download:** [https://nodejs.org](https://nodejs.org) (choose the **LTS** version)
 
@@ -80,6 +86,8 @@ Node.js is the JavaScript runtime that Claude Code and many modern dev tools run
    npm --version
    ```
    You should see version numbers for both (e.g., `v22.x.x` and `10.x.x`)
+
+> **Note:** Node.js is **not** needed to install Claude Code (Step 6 uses a native installer). You'll use Node.js for running MCP servers, optional CLI tools like Vercel, and other workshop exercises.
 
 **Account required?** No.
 
@@ -122,6 +130,8 @@ For this workshop, we **strongly recommend** signing up for the **Claude Max** p
 - You only need it for **one month** — you can downgrade or cancel anytime after the workshop
 - Claude Code will authenticate through your Claude Max subscription, no API key needed
 
+> **Nonprofit Teams pricing:** Anthropic offers Teams plans for nonprofits. Your organization may already have a Teams account — check with your team administrator before purchasing an individual subscription, as you may already have access or be eligible for discounted pricing.
+
 > **Why Max?** During two full days of hands-on exercises, you'll be making hundreds of Claude Code requests. On pay-as-you-go API pricing, that could easily exceed $100. Max gives you predictable cost and peace of mind to experiment without watching your bill.
 
 ### Alternative: API pay-as-you-go
@@ -156,11 +166,16 @@ Claude Code is the command-line AI coding tool from Anthropic. This is the core 
 
 ### Setup steps
 
-1. Make sure Node.js is installed first (Step 3 above)
-2. Install Claude Code globally:
-   ```bash
-   npm install -g @anthropic-ai/claude-code
-   ```
+1. Install Claude Code using the native installer (no dependencies required):
+   - **Mac/Linux:**
+     ```bash
+     curl -fsSL https://claude.ai/install.sh | bash
+     ```
+   - **Windows (PowerShell):**
+     ```powershell
+     irm https://claude.ai/install.ps1 | iex
+     ```
+2. **Restart your terminal** after installing
 3. Verify the install:
    ```bash
    claude --version
@@ -170,6 +185,8 @@ Claude Code is the command-line AI coding tool from Anthropic. This is the core 
    claude
    ```
 5. On first run, it will prompt you to authenticate — follow the on-screen instructions
+
+> **Note:** The native installer requires no dependencies (no Node.js, no npm), handles updates automatically, and is the recommended installation method from Anthropic.
 
 **Account required?** Yes — uses your Anthropic account / API key from Step 5.
 
