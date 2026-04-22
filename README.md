@@ -34,6 +34,10 @@ This workshop focuses on **context engineering** — the discipline of designing
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/logos/aws.png" alt="Amazon Web Services" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/logos/higher-ground.png" alt="Higher Ground Technology" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/logos/servant42.png" alt="Servant 42" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/logos/kaleo-ai.png" alt="Kaleo AI" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/logos/simple.png" alt="Simple" height="48">
