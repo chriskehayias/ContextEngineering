@@ -18,6 +18,12 @@ Component marketplaces and UI libraries for quickly building polished interfaces
 
 ---
 
+## [Git & GitHub for Beginners](Git/git.md)
+
+A take-home primer on Git and GitHub — atomic commits, branching, pull requests, merges, code reviews, issues, and worktrees — with both raw commands and Claude Code prompts. Includes solo-dev vs. team guidance throughout.
+
+---
+
 ## [VSCode Suggested Extensions](VSCode.md)
 
 A curated list of VS Code extensions to boost your development workflow — including icon themes, code formatting, Git tools, and more.
