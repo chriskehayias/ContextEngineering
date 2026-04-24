@@ -32,7 +32,7 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
 | Time | Duration | Session |
 |---|---|---|
 | TBD | — | 👋 **Meet & Greet** — casual mingling, food/drinks, name tags |
-| (same window) | — | 🧰 **AI Genius Bar** — *Trip & Patrick* on hand to help anyone still finishing the [prerequisites](../_requirements/README.md) |
+| (same window) | — | 🧰 **AI Genius Bar** — *Tripp & Patrick* on hand to help anyone still finishing the [prerequisites](../_requirements/README.md) |
 
 ---
 

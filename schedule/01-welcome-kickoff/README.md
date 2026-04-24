@@ -17,7 +17,7 @@ Attendees leave this session knowing **what context engineering is**, **what the
 3. **Short demo** — "here's what two days of context engineering looks like in 3 minutes" — 5 min
 4. **Logistics** — bathrooms, break schedule, food, baseball — 3 min
 5. **Goals for the two days** — 5 min
-6. **Setup check** — live walk through the [prerequisites checklist](../../_requirements/README.md#checklist); anyone behind grabs Trip or Patrick at the 10:15 break — 8 min
+6. **Setup check** — live walk through the [prerequisites checklist](../../_requirements/README.md#checklist); anyone behind grabs Tripp or Patrick at the 10:15 break — 8 min
 7. **Hand-off** — 2 min
 
 ## Talking Points
@@ -25,7 +25,7 @@ Attendees leave this session knowing **what context engineering is**, **what the
 - The thesis: **"Stop experimenting with AI. Start building tools that actually work."** (from the [event README](../../README.md))
 - Context engineering is a **discipline**, not a prompt trick — what you put in front of the model is the whole game.
 - Day 1 = learn the craft. Day 2 = ship something real.
-- The prerequisites aren't optional — if your `claude --version`, `gh auth status`, and `node --version` aren't all passing, the AI Genius Bar (Trip / Patrick) is standing by at every break.
+- The prerequisites aren't optional — if your `claude --version`, `gh auth status`, and `node --version` aren't all passing, the AI Genius Bar (Tripp / Patrick) is standing by at every break.
 - Call out the **PRTDUD** acronym now so it echoes across both days.
 
 ## Resources
