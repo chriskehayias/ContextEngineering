@@ -1,5 +1,11 @@
 # Resources
 
+## [Architecture Starters](architecture/README.md)
+
+Opinionated starting architectures for the most common project shapes — full-stack web (Next.js + Drizzle + Neon + shadcn), desktop (Electron + TypeScript), and mobile (Expo + React Native). Each comes with a ready-to-paste `CLAUDE.md` template so Claude Code knows the stack and conventions before you write your first line.
+
+---
+
 ## [Claude Code](Claude/ClaudeCode.md)
 
 Cheat sheets, tips, and references for working with Claude Code.
