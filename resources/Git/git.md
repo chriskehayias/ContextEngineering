@@ -1,4 +1,4 @@
-# <img src="../logos/git.svg" width="28" alt="Git"> Git & <img src="../logos/github.svg" width="28" alt="GitHub"> GitHub for Beginners
+# <img src="../images/git.svg" width="28" alt="Git"> Git & <img src="../images/github.svg" width="28" alt="GitHub"> GitHub for Beginners
 
 A take-home reference for the core Git and GitHub concepts we touched on during the conference. This is not a deep dive — it's the *working mental model* plus the commands (both raw Git and Claude Code prompts) you'll reach for most often.
 

@@ -35,7 +35,7 @@ Every attendee has **publicly demonstrated something they built** and leaves wit
 
 - Celebrate **shipped**, not impressive. Someone whose app does one small thing on a real URL has done exactly what this workshop was for.
 - Name specific moments from the two days — "when the room clapped for [name] at 3:50," "the moment [name] realized the plan was wrong and rewrote it."
-- The partners paid for the food, the venue, and the dinner tonight. Name them by name (see [resources/logos](../../resources/logos/)).
+- The partners paid for the food, the venue, and the dinner tonight. Name them by name (see [resources/images](../../resources/images/)).
 
 ## Hands-On / Exercises
 

@@ -31,7 +31,7 @@ Every attendee has a fresh Next.js app on their machine with a **seeded `CLAUDE.
 - The **temptation** is to start coding immediately. Resist it. Every minute you spend on context now is three minutes saved in Build Block 2.
 - `create-next-app` is the fastest path from zero to deployable. Use it.
 - The first prompt after scaffolding should never be "build feature X." It should be **"tell me what you see."** If Claude's summary is wrong, your context is wrong.
-- Open the [Vercel logo](../../resources/logos/vercel.svg) tab in your browser now — it's where we're going at 3:35.
+- Open the [Vercel logo](../../resources/images/vercel.svg) tab in your browser now — it's where we're going at 3:35.
 
 ## Hands-On / Exercises
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="resources/logos/citn-logo.png" alt="Church IT Network" width="350">
+<img src="resources/images/citn-logo.png" alt="Church IT Network" width="350">
 
 # AI Context Engineering Workshop
 
@@ -30,25 +30,25 @@ This workshop focuses on **context engineering** — the discipline of designing
 
 <p align="center"><strong>Made possible by our partners</strong></p>
 <p align="center">
-  <img src="resources/logos/citn-logo.png" alt="Church IT Network" height="48">
+  <img src="resources/images/citn-logo.png" alt="Church IT Network" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/aws.png" alt="Amazon Web Services" height="48">
+  <img src="resources/images/aws.png" alt="Amazon Web Services" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/higher-ground.png" alt="Higher Ground Technology" height="48">
+  <img src="resources/images/higher-ground.png" alt="Higher Ground Technology" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/servant42.png" alt="Servant 42" height="48">
+  <img src="resources/images/servant42.png" alt="Servant 42" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/kaleo-ai.png" alt="Kaleo AI" height="48">
+  <img src="resources/images/kaleo-ai.png" alt="Kaleo AI" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/simple.png" alt="Simple" height="48">
+  <img src="resources/images/simple.png" alt="Simple" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/studioc.png" alt="The StudioC" height="48">
+  <img src="resources/images/studioc.png" alt="The StudioC" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/lynde-consulting.png" alt="Lynde Consulting" height="48">
+  <img src="resources/images/lynde-consulting.png" alt="Lynde Consulting" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/gloo.png" alt="Gloo" height="48">
+  <img src="resources/images/gloo.png" alt="Gloo" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/logos/it1source.png" alt="IT1 Source" height="48">
+  <img src="resources/images/it1source.png" alt="IT1 Source" height="48">
 </p>
 
 ### ⚠️ Before You Arrive

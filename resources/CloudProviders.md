@@ -4,7 +4,7 @@ A curated list of cloud-based tools and services that accelerate Context Enginee
 
 ---
 
-## <img src="logos/vercel.svg" width="24" alt="Vercel"> Vercel
+## <img src="images/vercel.svg" width="24" alt="Vercel"> Vercel
 
 The go-to deployment platform for frontend frameworks and serverless functions. Push your code and Vercel handles builds, CDN distribution, edge functions, and preview deployments automatically. First-class support for Next.js, but works with any framework.
 
@@ -14,7 +14,7 @@ The go-to deployment platform for frontend frameworks and serverless functions. 
 
 ---
 
-## <img src="logos/neon.svg" width="24" alt="Neon"> Neon
+## <img src="images/neon.svg" width="24" alt="Neon"> Neon
 
 Serverless Postgres with instant branching. Neon separates storage and compute so your database scales to zero when idle and spins up on demand. Database branching lets you create instant copies for dev/test without duplicating data.
 
@@ -24,7 +24,7 @@ Serverless Postgres with instant branching. Neon separates storage and compute s
 
 ---
 
-## <img src="logos/auth0.svg" width="24" alt="Auth0"> Auth0
+## <img src="images/auth0.svg" width="24" alt="Auth0"> Auth0
 
 A flexible identity platform that handles authentication and authorization so you don't have to build login flows from scratch. Supports social login, passwordless, MFA, and enterprise SSO out of the box. SDKs for every major framework.
 
@@ -34,7 +34,7 @@ A flexible identity platform that handles authentication and authorization so yo
 
 ---
 
-## <img src="logos/upstash.svg" width="24" alt="Upstash"> Upstash Redis
+## <img src="images/upstash.svg" width="24" alt="Upstash"> Upstash Redis
 
 Serverless Redis with per-request pricing. No servers to manage — just a REST API or standard Redis client. Perfect for caching, session storage, rate limiting, and feature flags in serverless and edge environments.
 
@@ -44,7 +44,7 @@ Serverless Redis with per-request pricing. No servers to manage — just a REST 
 
 ---
 
-## <img src="logos/upstash.svg" width="24" alt="Upstash"> Upstash QStash
+## <img src="images/upstash.svg" width="24" alt="Upstash"> Upstash QStash
 
 A serverless message queue and task scheduler built for HTTP. Send messages to any publicly accessible endpoint with guaranteed delivery, retries, and scheduling — no infrastructure to run. Great for background jobs, webhooks, and event-driven workflows.
 
@@ -54,7 +54,7 @@ A serverless message queue and task scheduler built for HTTP. Send messages to a
 
 ---
 
-## <img src="logos/resend.svg" width="24" alt="Resend"> Resend
+## <img src="images/resend.svg" width="24" alt="Resend"> Resend
 
 A modern email API built for developers. Send transactional emails with a clean REST API, React Email templates, and real-time delivery tracking. Designed to replace clunky legacy email services with a developer-first experience.
 
@@ -64,7 +64,7 @@ A modern email API built for developers. Send transactional emails with a clean 
 
 ---
 
-## <img src="logos/sendgrid.svg" width="24" alt="SendGrid"> SendGrid
+## <img src="images/sendgrid.svg" width="24" alt="SendGrid"> SendGrid
 
 A reliable email delivery platform for transactional and marketing emails at scale. Offers SMTP relay, a Web API, dynamic templates, and detailed analytics. Battle-tested infrastructure trusted for high-volume sending.
 
@@ -74,7 +74,7 @@ A reliable email delivery platform for transactional and marketing emails at sca
 
 ---
 
-## <img src="logos/twilio.svg" width="24" alt="Twilio"> Twilio
+## <img src="images/twilio.svg" width="24" alt="Twilio"> Twilio
 
 The communications API platform. Add SMS, voice calls, video, WhatsApp, and more to your apps with just a few lines of code. Twilio handles the telecom complexity so you can focus on the user experience.
 
@@ -84,7 +84,7 @@ The communications API platform. Add SMS, voice calls, video, WhatsApp, and more
 
 ---
 
-## <img src="logos/amazons3.svg" width="24" alt="AWS S3"> AWS S3
+## <img src="images/amazons3.svg" width="24" alt="AWS S3"> AWS S3
 
 The industry standard for object storage. Store and retrieve any amount of data — files, images, backups, static assets — with virtually unlimited scalability. Integrates with the entire AWS ecosystem and supports fine-grained access control.
 
@@ -94,7 +94,7 @@ The industry standard for object storage. Store and retrieve any amount of data 
 
 ---
 
-## <img src="logos/azure.svg" width="24" alt="Azure Blob"> Azure Blob Storage
+## <img src="images/azure.svg" width="24" alt="Azure Blob"> Azure Blob Storage
 
 Microsoft's object storage solution for the cloud. Optimized for storing massive amounts of unstructured data — documents, media, logs, and backups. Tight integration with the Azure ecosystem, .NET, and Microsoft 365.
 
@@ -104,7 +104,7 @@ Microsoft's object storage solution for the cloud. Optimized for storing massive
 
 ---
 
-## <img src="logos/pusher.svg" width="24" alt="Pusher"> Pusher
+## <img src="images/pusher.svg" width="24" alt="Pusher"> Pusher
 
 A hosted realtime messaging service that makes it easy to add live features to your apps — think chat, notifications, live dashboards, and collaborative editing. Simple pub/sub model with channels and events. Client libraries for web, mobile, and backend.
 
@@ -114,7 +114,7 @@ A hosted realtime messaging service that makes it easy to add live features to y
 
 ---
 
-## <img src="logos/ably.svg" width="24" alt="Ably"> Ably
+## <img src="images/ably.svg" width="24" alt="Ably"> Ably
 
 An enterprise-grade realtime messaging platform with guaranteed message ordering, delivery, and presence. Goes beyond basic pub/sub with features like message history, stream resume, and global edge routing. A strong choice when reliability and scale matter for realtime features.
 
@@ -124,7 +124,7 @@ An enterprise-grade realtime messaging platform with guaranteed message ordering
 
 ---
 
-## <img src="logos/supabase.svg" width="24" alt="Supabase"> Supabase
+## <img src="images/supabase.svg" width="24" alt="Supabase"> Supabase
 
 An open-source Backend-as-a-Service that bundles Postgres, authentication, file storage, realtime subscriptions, and edge functions into a single platform. It covers a lot of ground and can replace several standalone services. Worth knowing about as an all-in-one option, though the bundled approach can feel opinionated — if you prefer choosing best-of-breed tools for each concern (like Neon for database, Auth0 for auth, S3 for storage), the individual services listed above give you more flexibility and control over your stack.
 
