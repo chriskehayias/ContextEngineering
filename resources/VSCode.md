@@ -115,3 +115,22 @@ ext install eamodio.gitlens
 ```
 
 **Link:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+---
+
+## Markdown Preview Mermaid Support (Optional)
+
+Adds Mermaid diagram rendering to VS Code's built-in Markdown preview — flowcharts, sequence diagrams, Gantt charts, and more render inline alongside your prose.
+
+**Install:**
+1. Open VS Code
+2. Press `Ctrl+Shift+X` to open the Extensions panel
+3. Search for `Markdown Preview Mermaid Support`
+4. Click **Install**
+
+Or install via the command palette (`Ctrl+Shift+P`):
+```
+ext install bierner.markdown-mermaid
+```
+
+**Link:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)

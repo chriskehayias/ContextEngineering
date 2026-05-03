@@ -20,6 +20,14 @@ This is the heart of context engineering — pre-loading Claude with the archite
 | [**Desktop — Electron + TypeScript**](desktop-electron.md) | Standalone cross-platform desktop app. Pick when you need OS integration (file system, native menus, offline-first, hardware), not just a web app in a window. |
 | [**Mobile — Expo + React Native + TypeScript**](mobile-expo.md) | iOS and Android from one codebase. Assumes a Next.js backend (the web starter above) handles your data and auth. |
 
+## Add-on references
+
+Drop-in modules that pair with the starters above — copy/paste-ready context for PRDs and `CLAUDE.md` files.
+
+| Reference | Pairs with | What's inside |
+|---|---|---|
+| [**auth/**](auth/README.md) | Web (Next.js) | Better Auth standalone + Google SSO + Microsoft SSO, plus RBAC patterns (admin plugin, access-control plugin, roll-your-own) |
+
 ---
 
 ## How to use these

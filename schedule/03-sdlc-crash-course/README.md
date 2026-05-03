@@ -42,6 +42,8 @@ By the end, every attendee can **open a repo in VS Code, make a commit, and push
 
 ## Resources
 
+- [`resources/SDLC.md`](../../resources/SDLC.md) — the six-phase SDLC walkthrough (Plan → Design → Build → Test → Ship → Maintain) for solo devs and small teams
+- [`resources/AI-SDLC.md`](../../resources/AI-SDLC.md) — the same six phases rebuilt around Claude Code; pairs with the above
 - [`resources/VSCode.md`](../../resources/VSCode.md) — extension installs (Prettier, GitLens, Peacock, Live Server, Claude Code for VS Code)
 - [`resources/Claude/commands/explain-error.md`](../../resources/Claude/commands/explain-error.md) — the friend you want when a terminal yells at you
 - Prereqs [§2 Git](../../_requirements/README.md), [§4 VS Code](../../_requirements/README.md), [§7 GitHub CLI](../../_requirements/README.md)

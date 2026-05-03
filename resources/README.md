@@ -30,6 +30,18 @@ A take-home primer on Git and GitHub — atomic commits, branching, pull request
 
 ---
 
+## [The SDLC](SDLC.md)
+
+A practical, no-jargon walkthrough of the Software Development Lifecycle — Plan, Design, Build, Test, Ship, Maintain — framed for solo developers and small teams. The "AI-free" baseline that pairs with [AI-SDLC.md](AI-SDLC.md).
+
+---
+
+## [The AI-First SDLC](AI-SDLC.md)
+
+The same six phases, rebuilt around an AI collaborator. Cross-cutting principles (context engineering, plan-before-generate, verify-don't-trust) plus phase-by-phase guidance for working with Claude Code as a pair programmer, reviewer, and triager.
+
+---
+
 ## [VSCode Suggested Extensions](VSCode.md)
 
 A curated list of VS Code extensions to boost your development workflow — including icon themes, code formatting, Git tools, and more.

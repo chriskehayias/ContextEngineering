@@ -16,13 +16,13 @@ A full-stack web application built on Next.js (App Router), with Drizzle ORM tal
 | **ORM** | [Drizzle](https://orm.drizzle.team) | Prisma, Kysely |
 | **Database** | [Neon Postgres](https://neon.tech) | Supabase Postgres, Vercel Postgres, AWS RDS |
 | **Auth** | [Better Auth](https://better-auth.com) — self-hosted, owns your `users` / `sessions` tables in Neon via Drizzle | Cloud-hosted unified-login providers: [Auth0](https://auth0.com), [Clerk](https://clerk.com), [WorkOS AuthKit](https://workos.com/authkit). Pick one of these when you have multiple apps and want a single identity for users across all of them. NextAuth/Auth.js if you're already on it. |
-| **File storage** | AWS S3 | Azure Blob, Cloudflare R2, Supabase Storage |
+| **File storage** | Vercel Blob | AWS S3, Azure Blob, Cloudflare R2, Supabase Storage |
 | **Email** | [Resend](https://resend.com) | SendGrid, Postmark |
 | **SMS / voice** | [Twilio](https://www.twilio.com) | MessageBird, Vonage |
 | **Realtime** | [Pusher](https://pusher.com) | Ably, Supabase Realtime |
 | **Background jobs** | [Upstash QStash](https://upstash.com/qstash) | Inngest, Trigger.dev, Vercel Cron |
 | **Cache / KV** | [Upstash Redis](https://upstash.com/redis) | Vercel KV, Cloudflare KV |
-| **Hosting** | [Vercel](https://vercel.com) | Netlify, AWS Amplify, Railway, self-host on Fly.io |
+| **Hosting** | [Vercel](https://vercel.com) | Netlify, AWS Amplify, Railway, self-host on Fly.io, Cloudflare |
 
 > **Tune this.** Everything in the **Default** column is a "ship fast" pick that plays well with the rest of the stack. Swap freely — Drizzle works against any Postgres, shadcn works in any React app, and Better Auth is straightforward to swap out for Auth0/Clerk/WorkOS later if you outgrow self-hosted auth or want unified login across multiple apps.
 
