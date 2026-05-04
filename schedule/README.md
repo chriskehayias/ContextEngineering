@@ -89,7 +89,13 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
 <p align="center">
   <img src="../resources/images/citn-logo.png" alt="Church IT Network" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/acs-technologies.png" alt="ACS Technologies" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/aws.png" alt="Amazon Web Services" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/higher-ground.png" alt="Higher Ground Technology" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/servant42.png" alt="Servant 42" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/kaleo-ai.png" alt="Kaleo AI" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -97,7 +103,11 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/studioc.png" alt="The StudioC" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/nonprofit-security-advisors.png" alt="Nonprofit Security Advisors" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/lynde-consulting.png" alt="Lynde Consulting" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="../resources/images/sardius-media.png" alt="Sardius Media" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="../resources/images/gloo.png" alt="Gloo" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;

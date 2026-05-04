@@ -32,6 +32,8 @@ This workshop focuses on **context engineering** — the discipline of designing
 <p align="center">
   <img src="resources/images/citn-logo.png" alt="Church IT Network" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/images/acs-technologies.png" alt="ACS Technologies" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/aws.png" alt="Amazon Web Services" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/higher-ground.png" alt="Higher Ground Technology" height="48">
@@ -44,12 +46,20 @@ This workshop focuses on **context engineering** — the discipline of designing
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/studioc.png" alt="The StudioC" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/images/nonprofit-security-advisors.png" alt="Nonprofit Security Advisors" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/lynde-consulting.png" alt="Lynde Consulting" height="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/images/sardius-media.png" alt="Sardius Media" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/gloo.png" alt="Gloo" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/it1source.png" alt="IT1 Source" height="48">
 </p>
+
+### 📱 CITN Conference App
+
+> **All conference details and information live in the [CITN Conference app](https://app.churchitnetwork.com/app/).** All attendees will need it to **check in on Thursday morning (May 7)**, so download and sign in before you arrive.
 
 ### ⚠️ Before You Arrive
 
