@@ -47,9 +47,7 @@ This workshop focuses on **context engineering** — the discipline of designing
   <img src="resources/images/studioc.png" alt="The StudioC" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/nonprofit-security-advisors.png" alt="Nonprofit Security Advisors" height="48">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/images/lynde-consulting.png" alt="Lynde Consulting" height="48">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/sardius-media.png" alt="Sardius Media" height="48">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/images/gloo.png" alt="Gloo" height="48">
