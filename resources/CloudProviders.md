@@ -104,6 +104,26 @@ Microsoft's object storage solution for the cloud. Optimized for storing massive
 
 ---
 
+## <img src="images/vercel.svg" width="24" alt="Vercel Blob"> Vercel Blob
+
+Object storage built into the Vercel platform. Upload files directly from the browser or server with a simple SDK, and serve them over Vercel's global CDN. Tight integration with Vercel deployments makes it a natural fit when you're already shipping on Vercel.
+
+**Free Plan:** Hobby tier includes 1 GB storage and 10 GB bandwidth/month.
+
+**Link:** [https://vercel.com/storage/blob](https://vercel.com/storage/blob)
+
+---
+
+## <img src="images/cloudflare.svg" width="24" alt="Cloudflare R2"> Cloudflare R2
+
+S3-compatible object storage with zero egress fees — you only pay for storage and operations, not for bandwidth out. Drop-in replacement for S3 in most SDKs, and pairs naturally with Cloudflare Workers for edge-served assets. **Best free tier of the storage options listed here.**
+
+**Free Tier:** 10 GB storage, 1 million Class A operations, and 10 million Class B operations per month — free forever, no egress fees.
+
+**Link:** [https://www.cloudflare.com/developer-platform/products/r2/](https://www.cloudflare.com/developer-platform/products/r2/)
+
+---
+
 ## <img src="images/pusher.svg" width="24" alt="Pusher"> Pusher
 
 A hosted realtime messaging service that makes it easy to add live features to your apps — think chat, notifications, live dashboards, and collaborative editing. Simple pub/sub model with channels and events. Client libraries for web, mobile, and backend.
