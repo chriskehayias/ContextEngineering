@@ -1,8 +1,8 @@
 # 08 · Inspire Leaders to Innovation — Panel
 
-**Day 1 · 4:20 – 5:00 PM · 40 min** · Hosts: **Jason Lee** and **Matt Pugh** · Panelists: _TBD_
+**Day 1 · 11:00 – 11:45 AM · 45 min** · Hosts: **Jason Lee** and **Matt Pugh** · Panelists: **Dean Lisenby** (ACST), **Brad Hill** (Gloo), **Chris Kehayias** (ACST), + 2 _TBD_
 
-> The day ends with leaders talking to leaders — what actually moves the needle back home.
+> Leaders talking to leaders right before lunch — what actually moves the needle back home.
 
 ---
 
@@ -12,11 +12,11 @@ Leaders in the room leave with **one concrete thing they'll do Monday** and **on
 
 ## Outline
 
-1. **Panelist intros** — 5 min (45 sec each)
-2. **Moderated questions** — 20 min
-3. **Audience Q&A** — 12 min
-4. **Closing charge** — 3 min
-   - Tee-up Day 2 and dinner
+1. **Panelist intros** — 5 min (~1 min each)
+2. **Moderated questions** — 22 min
+3. **Audience Q&A** — 13 min
+4. **Closing charge** — 5 min
+   - Hand off to lunch and the afternoon sessions
 
 ## Suggested Panel Questions
 
@@ -39,11 +39,12 @@ Pick 4–5 of the following — don't try to cover all of them.
 ## Resources
 
 - [Event README](../../README.md) — the framing of the workshop's purpose, useful for the intro
-- [Schedule](../README.md) — for the tee-up into Day 2
+- [Schedule](../README.md) — for the hand-off into the afternoon
 
 ## Notes for the Hosts (Jason & Matt)
 
-- 40 minutes feels long on the clock and short in the room. Keep answers to ~90 seconds.
-- Pre-seed 2 audience questions with attendees during the afternoon break — dead silence kills energy at 4:45 PM.
+- 45 minutes feels long on the clock and short in the room. Keep answers to ~90 seconds.
+- Pre-seed 2 audience questions with attendees during the morning break — dead silence kills energy right before lunch.
+- Brad is the only non-ACST voice on the panel — lean on him for the outside perspective rather than letting it become an ACST roundtable.
 - Don't let the panel become a product pitch for any one tool. If it drifts, steer back to the *decision*, not the *vendor*.
 - Starter deck: [`starter.pptx`](./starter.pptx)
