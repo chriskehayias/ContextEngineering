@@ -55,7 +55,7 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
 | 1:45 – 2:45 | 60 min | **Building the Context for Context Engineering — Part 2** — hands-on: authoring context for a sample project, critique, iterate |
 | 2:45 – 3:30 | 45 min | **Claude Code for the Non-Developer** — Trace |
 | 3:30 – 3:50 | 20 min | 🍎 Afternoon break + snacks *(snack sponsor: 2–3 min)* |
-| 3:50 – 4:20 | 30 min | **PRTDUD Workflow — Overview** — the core loop: **P**lan · **R**eview · **T**est · **D**ebug · **U**pdate · **D**eploy. When to use each phase and what it produces. Full hands-on practice happens on Day 2 |
+| 3:50 – 4:20 | 30 min | **EPCC Workflow — Overview** — the core loop: **E**xplore · **P**lan · **C**ode · **C**ommit. When to use each phase and what it produces. Full hands-on practice happens on Day 2 |
 | 4:20 – 5:00 | 40 min | **Inspire Leaders to Innovation Panel** — audience-wide closing session |
 | 6:30 PM | — | 🍴 Dinner *(meal sponsor: 3–5 min)* |
 
