@@ -42,6 +42,12 @@ A relaxed evening to meet the crew and wrap up any prerequisite setup before Day
 
 ## Day 1 — Foundations (May 7)
 
+<p align="center">
+  <img src="../resources/images/TenCommandments.png" alt="The Ten Commandments of Context Engineering" width="600">
+  <br>
+  <em>Day 1's signature reference card — introduced in <a href="./04-building-context-part-1/README.md">Session 04</a>, called back in 05 and 07.</em>
+</p>
+
 | Time | Duration | Session |
 |---|---|---|
 | 8:30 – 8:45 | 15 min | ☕ Coffee & doughnuts — relaxed arrival |

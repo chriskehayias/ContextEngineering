@@ -57,6 +57,12 @@ This session is the bridge from *concept* (Session 03's AI-SDLC) to *practice* (
 
 The full reference card. Lives as a single slide near the end of the session and as a callable poster for the rest of the workshop. Each commandment has a session where it's introduced and others where it's reinforced.
 
+<p align="center">
+  <img src="../../resources/images/TenCommandments.png" alt="The Ten Commandments of Context Engineering" width="720">
+</p>
+
+The text below mirrors the poster — searchable, linkable, and used by the speaker notes throughout the workshop.
+
 | # | Commandment | Sessions where it lands |
 |---|---|---|
 | I | **Plan Mode before edits.** `Shift+Tab` is thy staff. He who codes before he plans, debugs forever. | 04 · 07 · 11 |
@@ -100,7 +106,7 @@ Target: ~22 slides for 60 min. The CLAUDE.md anatomy section gets the most slide
 17. **Conventions that stick** — naming, layout, commits, tests · *"where to write them once"*
 18. **Live demo — `/project:init-claude-md`** — title slide with the command, then run it live
 19. **What just got generated** — annotated screenshot of the demo output (insurance if the live demo fails)
-20. **The Ten Commandments of Context Engineering** — full reference card, all ten, photographable. *Pause for 10 seconds. Let people take their picture.*
+20. **The Ten Commandments of Context Engineering** — full reference card, all ten, photographable. Use [`resources/images/TenCommandments.png`](../../resources/images/TenCommandments.png) as the slide visual; fill the slide, no other content. *Pause for 10 seconds. Let people take their picture.*
 21. **What's coming in Part 2** — write your own → partner critique → rewrite. Tag with **Commandment X**.
 22. **Transition** — *"After lunch, you write yours."*
 

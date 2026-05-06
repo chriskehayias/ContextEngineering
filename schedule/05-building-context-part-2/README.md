@@ -74,7 +74,7 @@ Target: ~12 slides for 60 min. This session is **mostly hands-on** — slides ex
 7. **The critique checklist** — five questions, photographable. **Tag question 4 with Commandment II.**
 8. **Iterate — 10:00 timer** — apply feedback; then run the test prompt
 9. **Test prompt** — *"Given this CLAUDE.md, what's one thing you're still unsure about?"*
-10. **Commandment X — Iterate `CLAUDE.md` as you iterate code** — full text on screen; *"What you just did is the practice. Do it weekly."*
+10. **Commandment X — Iterate `CLAUDE.md` as you iterate code** — flash [`resources/images/TenCommandments.png`](../../resources/images/TenCommandments.png) for two beats (*"remember this from before lunch?"*), then zoom to commandment X full-screen. *"What you just did is the practice. Do it weekly."*
 11. **Debrief** — two attendees share v1 → v2; what changed and why
 12. **Closing** — *"Your `CLAUDE.md` is now a draft, not a relic. Day 2 is when it earns its keep."*
 

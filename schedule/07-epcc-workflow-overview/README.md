@@ -79,7 +79,7 @@ Target: ~10 slides for 30 min. The four-phase table is the centerpiece — print
 5. **Phase 2 · Plan** — question / produces / commands · **Commandment I** in the corner (`Shift+Tab`)
 6. **Phase 3 · Code (the inner loop)** — write → review → test → debug · **Commandments VII and IX** in the corner
 7. **Phase 4 · Commit** — question / produces / commands · note the stretch (deploy + comms) · **Commandment VI** in the corner (`/clear` before the next loop)
-8. **The four-phase reference table** — full table from this README, photographable
+8. **The four-phase reference table** — full table from this README, photographable. Build as a two-step: first show [`resources/images/TenCommandments.png`](../../resources/images/TenCommandments.png) with commandments **I, IV, VI, VII, IX** highlighted (the five that map onto EPCC); then dissolve to the four-phase table with those commandments pinned to their phases.
 9. **Which phases for which change?** — the rough guide, with the *"just quickly..."* punchline
 10. **Tomorrow you run this loop end-to-end** — Build Block 1 (Explore + Plan) · Build Block 2 (Code) · Deploy (Commit)
 
