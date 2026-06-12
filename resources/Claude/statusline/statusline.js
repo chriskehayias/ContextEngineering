@@ -25,6 +25,11 @@ process.stdin.on('end', () => {
         const cost = input.cost?.total_cost_usd ?? 0;
         const costStr = cost > 0 ? '$' + cost.toFixed(2) : '';
 
+        // Rate limit usage (Pro/Max only; absent before first API response)
+        const rateLimits = input.rate_limits || {};
+        const fiveHourPct = rateLimits.five_hour?.used_percentage ?? null;
+        const sevenDayPct = rateLimits.seven_day?.used_percentage ?? null;
+
         // Shorten model name
         const shortModel = model.replace(/^Claude /, '');
 
@@ -74,6 +79,14 @@ process.stdin.on('end', () => {
 
         if (costStr) {
             output += ' | ' + DIM + costStr + RESET;
+        }
+        if (fiveHourPct !== null) {
+            const c = fiveHourPct > 90 ? RED : fiveHourPct > 70 ? YELLOW : GREEN;
+            output += ' | ' + c + '5h:' + Math.round(fiveHourPct) + '%' + RESET;
+        }
+        if (sevenDayPct !== null) {
+            const c = sevenDayPct > 90 ? RED : sevenDayPct > 70 ? YELLOW : GREEN;
+            output += ' | ' + c + '7d:' + Math.round(sevenDayPct) + '%' + RESET;
         }
         if (projectName) {
             output += ' | ' + MAGENTA + projectName + RESET;
