@@ -28,6 +28,9 @@ process.stdin.on('end', () => {
         // Rate limit usage (Pro/Max only; absent before first API response)
         const rateLimits = input.rate_limits || {};
         const fiveHourPct = rateLimits.five_hour?.used_percentage ?? null;
+        const fiveHourReset = rateLimits.five_hour?.resets_at ?? null;
+        // Convert fiveHourReset to 24h local time
+        const fiveHourResetDate = new Date(fiveHourReset * 1000);
         const sevenDayPct = rateLimits.seven_day?.used_percentage ?? null;
 
         // Shorten model name
@@ -81,11 +84,15 @@ process.stdin.on('end', () => {
             output += ' | ' + DIM + costStr + RESET;
         }
         if (fiveHourPct !== null) {
-            const c = fiveHourPct > 90 ? RED : fiveHourPct > 70 ? YELLOW : GREEN;
+            const c = fiveHourPct > 80 ? RED : fiveHourPct > 50 ? YELLOW : DIM;
             output += ' | ' + c + '5h:' + Math.round(fiveHourPct) + '%' + RESET;
         }
+        if (fiveHourReset !== null) {
+            const c = fiveHourPct > 80 ? YELLOW : fiveHourPct > 50 ? RESET : DIM;
+            output += ' ' + c + 'r@' + fiveHourResetDate.getHours() + ':' + fiveHourResetDate.getMinutes().toString().padStart(2, '0') + RESET;
+        }
         if (sevenDayPct !== null) {
-            const c = sevenDayPct > 90 ? RED : sevenDayPct > 70 ? YELLOW : GREEN;
+            const c = sevenDayPct > 90 ? RED : sevenDayPct > 70 ? YELLOW : DIM;
             output += ' | ' + c + '7d:' + Math.round(sevenDayPct) + '%' + RESET;
         }
         if (projectName) {
